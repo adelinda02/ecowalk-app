@@ -73,8 +73,8 @@ class VerificationScreen extends StatelessWidget {
                       Expanded(
                         child: Text(
                           viaPhone
-                              ? 'Periksa dan ketik kode verifikasi yang telah dikirimkan ke +6212371923719238'
-                              : 'Periksa dan ketik kode verifikasi yang telah dikirimkan ke contohsample@gmail.com',
+                              ? 'Periksa dan ketik kode verifikasi yang telah dikirimkan ke 085211408867'
+                              : 'Periksa dan ketik kode verifikasi yang telah dikirimkan ke adelindafebriana15@gmail.com',
                           style: const TextStyle(fontSize: 11),
                         ),
                       ),
